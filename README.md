@@ -1,10 +1,10 @@
 # Happy-Birthday-Talkaway
-Celebrating Talkaway's 1st Birthday with a song!
+Celebrating Talkaway's 1st Birthday with a song, and a new Favicon!
 
-Written by @MONGODB123
+Song Written by @MONGODB123
 
-Sung by Google Translate
+Song Sung by Google Translate
 
-Posted by @Astr0
+Posted and Edited by @Astr0-
 
 New Favicon by @Radiant
