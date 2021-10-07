@@ -6,3 +6,5 @@ Written by @MONGODB123
 Sung by Google Translate
 
 Posted by @Astr0
+
+New Favicon by @Radiant
